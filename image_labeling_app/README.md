@@ -20,7 +20,6 @@ Um aplicativo inteligente para classificação de imagens com IA, utilizando o G
 - Image Picker: Para captura e seleção de imagens
 - Translator API: Para tradução automática em tempo real
 - Material Design 3: Para a criação da interface do usuário
-- Lottie: Para animações fluidas e modernas
 - Google Fonts: Para fontes personalizadas
 - Flutter Native Splash: Para personalização da tela de inicialização
 - Flutter Launcher Icons: Para personalização do ícone do aplicativo
@@ -35,7 +34,6 @@ O projeto foi configurado com as seguintes dependências:
 - `image_picker`: Para acessar a câmera e a galeria de fotos
 - `google_mlkit_image_labeling`: Para classificação de objetos em imagens
 - `translator`: Para tradução automática dos rótulos
-- `lottie`: Para animações fluidas
 - `google_fonts`: Para integração da fonte Poppins
 - `flutter_launcher_icons`: Para personalização do ícone do aplicativo
 - `flutter_native_splash`: Para personalização da tela de inicialização
